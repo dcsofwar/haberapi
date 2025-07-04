@@ -20,6 +20,6 @@ app.get('/takenews',async (req, res) => {
   res.json(ary);
 })
 
-app.listen(1545, () => {
+app.listen(3000, () => {
     console.log("h");
 });

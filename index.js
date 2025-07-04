@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer-core');
 const express = require('express');
 const ss = require('./express.js');
 const news = require('./haber.js');
